@@ -1,0 +1,13 @@
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\xampp\php\ext\oci8_12c (The specified module could not be found), C:\xampp\php\ext\php_oci8_12c.dll (The specified module could not be found)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\xampp\php\ext\oci8_12c (The specified module could not be found), C:\xampp\php\ext\php_oci8_12c.dll (The specified module could not be found)) in Unknown on line 0
+=== AVAILABLE ODBC DRIVERS ===
+PHP Fatal error:  Uncaught Error: Call to undefined function odbc_drivers() in C:\xampp\htdocs\invoice\discover_schema.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\invoice\discover_schema.php on line 12
+
+Fatal error: Uncaught Error: Call to undefined function odbc_drivers() in C:\xampp\htdocs\invoice\discover_schema.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\invoice\discover_schema.php on line 12

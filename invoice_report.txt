@@ -1,0 +1,12 @@
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\xampp\php\ext\oci8_12c (The specified module could not be found), C:\xampp\php\ext\php_oci8_12c.dll (The specified module could not be found)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\xampp\php\ext\oci8_12c (The specified module could not be found), C:\xampp\php\ext\php_oci8_12c.dll (The specified module could not be found)) in Unknown on line 0
+=============================================================
+  MELCOM INVOICE COUNT REPORT - Date: 2026-04-26
+  READ-ONLY: No data will be modified
+=============================================================
+
+--- Phase 1: Discovering table schema from first reachable server ---
+
+
+ERROR: Could not discover date column. Please specify the date column name.
